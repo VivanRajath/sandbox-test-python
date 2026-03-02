@@ -1,8 +1,6 @@
-# Run Python App
+# Run App
 
 ```bash
-apt update
-apt install -y python3 python3-pip
-pip3 install -r requirements.txt
-python3 main.py
+pip install -r requirements.txt
+python main.py
 ```
